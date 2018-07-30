@@ -1,0 +1,4 @@
+prueba de archivo2.txt
+
+este es un archivo creado desde el repositario 
+remoto en espera de actualizacion en repositorio local de git.
